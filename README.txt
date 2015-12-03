@@ -5,8 +5,14 @@ Ying Lu <ylu6@wpi.edu>
 Qiaoyu Liao <qliao@wpi.edu>
 
 *************************************
-
+This project is to implement a basic shell.
+It contains three phases:
+	1. single command
+	2. basic shell
+	3. command shell with background execution
+	
 run 'make' to compile three phases.
+Below also includes our data.
 
 ===================PHASE 1=====================
 run 'make runCommand' to compile only this phase
